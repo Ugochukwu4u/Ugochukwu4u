@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugochukwu4u&label=Profile%20views&color=0e75b6&style=flat" alt="ugochukwu4u" /> </p>
 
-- 🔭 I’m currently working on **Chat Application using React Native**
+- 🔭 I’m currently working on **A Digital Saving platform & A Market Place**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning Operations**
 
 - 👨‍💻 All of my projects are available at [https://ugochukwupeter4va.netlify.app/](https://ugochukwupeter4eva.netlify.app/)
 
-- 💬 Ask me about **React, Next js, Node**
+- 💬 Ask me about **React, React Native, Next js, Node**
 
 - 📫 How to reach me **ugochukwupeter4u@gmail.com**
 
